@@ -30,7 +30,7 @@ Eu sou o _**Anderson Lima**_, um Programador iniciante!
   ##
 
 <h2>Estatísticas: </h2>
-<div  align="right"
+<div
   <a href="https://github.com/olianderson">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=olianderson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olianderson&layout=compact&langs_count=7&theme=dracula"/>
