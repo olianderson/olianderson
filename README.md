@@ -15,14 +15,14 @@ Eu sou o _**Anderson Lima**_, um Programador iniciante!
 <a href="https://www.python.org/about/"> <img src="https://img.shields.io/badge/-Python-336EA0?style=for-the-badge&logo=python&logoColor=FFE466">
 <a href="https://html.com/html5/"> <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <a href="https://git-scm.com/about"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+<a href="https://www.mysql.com/"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 
 
 ## Atualmente estou aprendendo:
 
-<a href="https://www.mysql.com/"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 <a href="https://www.postgresql.org/about/"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 <a href="https://www.mongodb.com/"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-
+<a href="https://www.figma.com/enterprise/"> <img src="https://img.shields.io/badge/Figma-white?style=for-the-badge&logo=figma">
 
 ## Estatísticas:
 
@@ -36,5 +36,5 @@ Eu sou o _**Anderson Lima**_, um Programador iniciante!
   <a href="https://www.linkedin.com/in/anderson-lima-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:lima.anderson@discente.ufma.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/olianderson_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   
- 
+
+
