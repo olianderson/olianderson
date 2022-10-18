@@ -23,12 +23,15 @@ Eu sou o _**Anderson Lima**_, um Programador iniciante!
 <a href="https://www.postgresql.org/about/"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 <a href="https://www.mongodb.com/"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 <a href="https://www.figma.com/enterprise/"> <img src="https://img.shields.io/badge/Figma-white?style=for-the-badge&logo=figma">
+<a href="https://www.djangoproject.com/"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">
+
 
 ## Estatísticas:
 
   <a href="https://github.com/olianderson">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=olianderson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olianderson&layout=compact&langs_count=7&theme=dracula"/>
+  
   
   
 ## Você pode me encontrar em:
