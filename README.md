@@ -14,6 +14,7 @@ Eu sou o _**Anderson Lima**_, um Programador iniciante!
 
 <a href="https://www.python.org/about/"> <img src="https://img.shields.io/badge/-Python-336EA0?style=for-the-badge&logo=python&logoColor=FFE466">
 <a href="https://html.com/html5/"> <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<a href="https://www.w3schools.com/Css/"> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <a href="https://git-scm.com/about"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 <a href="https://www.mysql.com/"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 
