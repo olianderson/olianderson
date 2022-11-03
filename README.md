@@ -21,6 +21,7 @@ Eu sou o _**Anderson Lima**_, um Programador iniciante!
 
 ## Atualmente estou aprendendo:
 
+<a href="https://www.javascript.com/"> <img src="https://img.shields.io/badge/-JavaScript-FCDC00?style=for-the-badge&logo=javascript&logoColor=black">
 <a href="https://www.postgresql.org/about/"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 <a href="https://www.mongodb.com/"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 <a href="https://www.figma.com/enterprise/"> <img src="https://img.shields.io/badge/Figma-white?style=for-the-badge&logo=figma">
