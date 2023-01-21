@@ -6,7 +6,7 @@ Eu sou o _**Anderson Lima**_, um Programador iniciante!
 
 👨‍🎓: Sou graduado em <a href="http://www.ccec.ufma.br/">_**Engenharia Civil**_</a> pela <a href="https://portalpadrao.ufma.br/site">_**Universidade Federal do Maranhão - UFMA**_</a>. <br>
 📚: Atualmente sou graduando de <a href="http://www.ccec.ufma.br/">_**Engenharia da Computação**_</a> pela mesma universidade. <br>
-💬: Meu idioma nativo é o Português, mas compreendo bem Inglês e Espanhol. <br>
+💬: Meu idioma nativo é o Português, mas compreendo um pouco de Inglês e Espanhol. <br>
 🏠: Natural de São Luís do Maranhão, Brasil. <br>
 
 
