@@ -1,6 +1,6 @@
 <h1 align="center">Olá, seja muito bem-vindo(a)!</h1>
 
-Eu sou o _**Anderson Lima**_, um desenvolvedor jr. apaixonado por tecnologia e com uma grande vontade de aprender. Durante minha formação acadêmica e em trabalhos anteriores, tive a oportunidade de trabalhar em projetos pessoais e isso me proporcionou uma ótima base em programação. Sou um profissional dedicado e comprometido em aprender novas tecnologias e metodologias de desenvolvimento. Eu tenho uma forte ética de trabalho e uma atitude positiva que me permite trabalhar efetivamente em equipe e colaborar em projetos complexos.
+Eu sou o _**Anderson Lima**_, apaixonado por tecnologia e com uma grande vontade de aprender. Durante minha formação acadêmica e em trabalhos anteriores, tive a oportunidade de trabalhar em projetos pessoais e isso me proporcionou uma ótima base em programação. Sou um profissional dedicado e comprometido em aprender novas tecnologias e metodologias de desenvolvimento para resolução de problemas. Eu possuo uma forte ética de trabalho, preso pela segurança e uma atitude positiva que me permite trabalhar efetivamente em equipe e colaborar em projetos multidisciplinares.
 
 
 <h2>Quem sou eu:</h2>
